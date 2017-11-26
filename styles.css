@@ -1,0 +1,47 @@
+h3 {
+  margin-left: 20px;
+}
+
+.italic {
+  border: 50px;
+  font-style: italic;
+}
+
+.title {
+  font-weight: bold;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.card {
+  background-color: #EDBB99;
+  border-color: #EAECEE;
+  border-radius: 10px;
+  border-style: solid;
+  border-width: 1px;
+  box-shadow: 7px 7px #EAECEE;
+  width: 340px;
+
+}
+
+.animalInfo {
+  border-color: #EAECEE;
+  border-radius: 10px;
+  border-style: solid;
+  border-width: 1px;
+  margin: auto;
+  margin-bottom: 15px;
+  margin-top: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+  width: 270px;
+
+}
+
+img {
+  display: block;
+  margin: auto;
+}
